@@ -89,7 +89,7 @@ about my experiences https://codewithsukan.xyz/
         </td>
     </tr>
     <tr>
-        <td colspan="2" align="center"><img align="center"
+        <td colspan="2" align="center"><img align="center "
                 src="https://github-readme-streak-stats.herokuapp.com?user=CrisTain333&theme=tokyonight&hide_border=true">
         </td>
     </tr>
