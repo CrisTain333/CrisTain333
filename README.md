@@ -81,8 +81,7 @@ about my experiences https://codewithsukan.xyz/
 <table>
     <h1 align="center">Github Stats</h1>
     <tr>
-        <td><img alt="Cristain :: Profile Stats"
-                src="https://github-readme-stats.vercel.app/api?username=CrisTain333&theme=tokyonight&amp;show_icons=true&amp;count_private=true&amp;hide_border=true" />
+        <td>![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/2077/3-stats.svg)
         </td> <!-- &hide=html -->
         <td><img alt="Cristain :: Top Langs]"
                 src="https://github-readme-stats.vercel.app/api/top-langs/?username=CrisTain333&langs_count=14&theme=tokyonight&layout=compact&hide=html">
