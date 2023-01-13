@@ -76,12 +76,14 @@ about my experiences https://codewithsukan.xyz/
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
             alt="" height="30" width="40" /> </a>
 </p> <br>
+![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/2077/3-stats.svg)
 
 <p align="center">
 <table>
     <h1 align="center">Github Stats</h1>
     <tr>
-        <td>![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/2077/3-stats.svg)
+        <td><img alt="Cristain :: Profile Stats"
+                src="https://github-readme-stats.vercel.app/api?username=CrisTain333&theme=tokyonight&amp;show_icons=true&amp;count_private=true&amp;hide_border=true" />
         </td> <!-- &hide=html -->
         <td><img alt="Cristain :: Top Langs]"
                 src="https://github-readme-stats.vercel.app/api/top-langs/?username=CrisTain333&langs_count=14&theme=tokyonight&layout=compact&hide=html">
