@@ -85,12 +85,12 @@ about my experiences https://codewithsukan.xyz/
                 src="https://github-readme-stats.vercel.app/api?username=CrisTain333&count_private=true&show_icons=true&theme=radical" />
         </td> <!-- &hide=html -->
         <td><img alt="Cristain :: Top Langs]"
-                src="https://github-readme-stats.vercel.app/api/top-langs/?username=CrisTain333&langs_count=14&theme=tokyonight&layout=compact&hide=html">
+                src="https://github-readme-stats.vercel.app/api/top-langs/?username=CrisTain333">
         </td>
     </tr>
     <tr>
-        <td colspan="2" align="center"><img align="center "
-                src="https://github-readme-streak-stats.herokuapp.com?user=CrisTain333&theme=tokyonight&hide_border=true">
+        <td colspan="2" align="center"><img align="center"
+                src="https://github-readme-streak-stats.herokuapp.com?user=CrisTain333&theme=radical&hide_border=true">
         </td>
     </tr>
 </table>
