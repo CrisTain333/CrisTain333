@@ -26,7 +26,7 @@
 👨‍💻 All of my projects are available at https://github.com/CrisTain333 <br>📫 How to reach me <a
     href="mailto:sukanta.das4104@gmail.com" target="_blank" rel="noopener">sukanta.das4104@gmail.com</a> <br>📄
 Know
-about my experiences https://codewithsukan.xyz/
+about my experiences https://devsukan.xyz/
 
 <h1 align="center"><img
         src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif"
