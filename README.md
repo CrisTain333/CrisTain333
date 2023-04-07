@@ -64,7 +64,7 @@ about my experiences https://codewithsukan.xyz/
 
 <h1 align="center">Connect with me</h1>
 <p align="center"> <a href="mailto:sukanta.das4104@gmail.com" target="_blank" rel="noopener"> <img align="center"
-            src="https://www.pngkey.com/png/full/84-840977_email-png-icon.png" height="30" width="40" /> </a>&nbsp;
+            src="https://www.pngkey.com/png/full/84-840977_email-png-icon.png" height="40" width="40" /> </a>&nbsp;
     <a href="https://stackoverflow.com/users/18858174/cristain" target="_blank" rel="noopener"> <img align="center"
             src="https://cdn.iconscout.com/icon/free/png-256/stackoverflow-2-432547.png" height="30" width="40" />
     </a>&nbsp; <a href="https://codewithsukan.xyz/" target="_blank" rel="noopener">
@@ -75,11 +75,12 @@ about my experiences https://codewithsukan.xyz/
         <img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
             alt="" height="30" width="40" /> </a>
-</p> <br>
+</p> 
 
 <p align="center">
 <table>
     <h1 align="center">Github Stats</h1>
+    <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cristain333" alt="cristain333" /></a> </p>
     <tr>
         <td><img alt="Cristain :: Profile Stats "
                 src="https://github-readme-stats.vercel.app/api?username=CrisTain333&count_private=true&show_icons=true&theme=radical" />
