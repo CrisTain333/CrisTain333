@@ -80,7 +80,7 @@ about my experiences https://codewithsukan.xyz/
 <p align="center">
 <table>
     <h1 align="center">Github Stats</h1>
-    <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cristain333" alt="cristain333" /></a> </p>
+      <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cristain333&theme=darkhub" alt="cristain333" /></a> </p>
     <tr>
         <td><img alt="Cristain :: Profile Stats "
                 src="https://github-readme-stats.vercel.app/api?username=CrisTain333&count_private=true&show_icons=true&theme=radical" />
