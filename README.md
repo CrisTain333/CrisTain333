@@ -1,17 +1,34 @@
-<h1 align="center">
-    I'M Sukanta Das </br>
-    <strong align="center"> <a align="center" href="https://codewithsukan.xyz/" target="_blank" target="_blank"
-            rel="noopener noreferrer">Portfolio</a></strong> || <strong align="center"> <a align="left"
-            href="https://drive.google.com/file/d/1i5cDXGTmwBuR7DsXt4u94Ca1wOKHYXVX/view?usp=sharing" target="_blank"
-            target="_blank" rel="noopener noreferrer">Resume</a></strong>
-</h1>
 
-<h5 align="center">
-    I'm a frontend-based full-stack developer from Bangladesh. I love web development because I can showcase my
-    creativity in this work. I want to see myself as a skilled web developer with my hard work. I want to work with
-    someone who can help me develop both my professional and personal abilities.
-</h5>
-<br>
+
+<!-- Intro  -->
+<h3 align="center">
+        <samp>&gt; Hey There!, I am
+                <b><a target="_blank" href="https://devsukan.xyz">Sukanta Das</a></b>
+        </samp>
+</h3>
+<br/>
+
+<p align="center">
+ <a href="https://devsukan.xyz" target="blank">
+  <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="Sukanta_das" />
+ </a>
+ <a href="https://www.linkedin.com/in/sukanta-das221/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Sukanta_das"/>
+ </a>
+ <a href="https://dev.to/cristain" target="_blank">
+  <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Sukanta_das" />
+ </a>
+ <a href="https://twitter.com/igCristain" target="_blank">
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+ </a>
+ <a href="https://www.instagram.com/igcristain/" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="Sukanta_das" />
+ </a> 
+ <a href="https://facebook.com/cristain.333" target="_blank">
+  <img src="https://img.shields.io/badge/Facebook-20BEFF?&style=for-the-badge&logo=facebook&logoColor=white" alt="Sukanta_das"  />
+  </a> 
+</p>
+<br />
 
 [![](https://visitcount.itsvg.in/api?id=CrisTain333&icon=5&color=12)](https://visitcount.itsvg.in)
 ![focus](https://img.shields.io/badge/focus-MERN%20Stack-brightgreen)
@@ -20,68 +37,50 @@
 [![Github](https://img.shields.io/github/followers/CrisTain333?label=Follow&style=social)](https://github.com/CrisTain333)
 
 <h1> About Me </h1>
-🌱 I’m currently learning Redux , Aws , Docker, NextJS  <br> 💬 Ask me about HTML, CSS, Bootstrap, Tailwind CSS, JavaScript <br>
-👨‍💻 All of my projects are available at https://github.com/CrisTain333 <br>📫 How to reach me <a
-    href="mailto:sukanta.das4104@gmail.com" target="_blank" rel="noopener">sukanta.das4104@gmail.com</a> <br>📄
-Know
-about my experiences https://devsukan.xyz/
+🌱 I’m currently learning Redux , Aws , Docker, NextJS  <br>  <br> 💬 Ask me about HTML, CSS, Bootstrap, Tailwind CSS, JavaScript <br> <br>
+👨‍💻 All of my projects are available at <a href='https://devsukan.xyz' >Dev Sukan</a>  <br><br> 📧  Reach me anytime <a
+    href="mailto:sukanta.das4104@gmail.com" target="_blank" rel="noopener">sukanta.das4104@gmail.com</a> <br>
+
 
 <h1 align="center"><img
         src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif"
-        width='40' />&nbsp;Technologies that I know</h1>
-<p align="center"> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
-            alt="html5" width="40" height="40" /> </a> <a href="https://www.w3schools.com/css/" target="_blank"
-        rel="noreferrer"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
-            alt="css3" width="40" height="40" /> </a> <a href="https://tailwindcss.com/" target="_blank"
-        rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind"
-            width="40" height="40" /> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img
-            src="https://i.ibb.co/6BRCwLQ/bootstrap.png" alt="bootstrap" width="40" height="40" /> </a> <a
-        href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-            alt="javascript" width="40" height="40" /> </a> <a href="https://reactjs.org/" target="_blank"
-        rel="noreferrer"> <img src="https://i.ibb.co/5xXVNVh/react.png" alt="react" width="40" height="40" /> </a>
-    <a href="https://redux.js.org/" target="_blank" rel="noreferrer"> <img src="https://i.ibb.co/v4BFdS7/Redux.png"
-            alt="Redux" width="40" height="40" /> </a> <a href="https://reactrouter.com/" target="_blank"
-        rel="noreferrer"> <img src="https://i.ibb.co/72RyCgr/route-removebg-preview.png" alt="react" width="40"
-            height="40" /> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img
-            src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40" />
-    </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
-            alt="nodejs" width="40" height="40" /> </a> <a href="https://www.mongodb.com/" target="_blank"
-        rel="noreferrer"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
-            alt="mongodb" width="40" height="40" /> </a> <a href="https://expressjs.com" target="_blank"
-        rel="noreferrer"> <img src="https://i.ibb.co/RhH2TVX/Express-js.png" alt="express" width="40" height="40" />
-    </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img
-            src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" />
-    </a> <a href="https://app.netlify.com/" target="_blank" rel="noreferrer"> <img
-            src="https://i.ibb.co/HXbptwp/5bSckoxz.png" width="40" height="40" /> </a>
-</p> <br>
+        width='40' />&nbsp;Tech Stack</h1>
+        
+![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
+![Typescript](https://img.shields.io/badge/Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)
+![React](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Nodejs](https://img.shields.io/badge/Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![SASS Badge](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![Ant-Design](https://img.shields.io/badge/AntDesign-0170FE?style=for-the-badge&logo=antdesign&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-092749?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4&labelColor=000000)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Strapi](https://img.shields.io/badge/strapi-2E7EEA?style=for-the-badge&logo=strapi&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+![React Query](https://img.shields.io/badge/-React_Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white)
+![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+ <br>
 
-<h1 align="center">Connect with me</h1>
-<p align="center"> <a href="mailto:sukanta.das4104@gmail.com" target="_blank" rel="noopener"> <img align="center"
-            src="https://www.pngkey.com/png/full/84-840977_email-png-icon.png" height="40" width="40" /> </a>&nbsp;
-    <a href="https://stackoverflow.com/users/18858174/cristain" target="_blank" rel="noopener"> <img align="center"
-            src="https://cdn.iconscout.com/icon/free/png-256/stackoverflow-2-432547.png" height="30" width="40" />
-    </a>&nbsp; <a href="https://codewithsukan.xyz/" target="_blank" rel="noopener">
-        <img align="center" src="https://i.ibb.co/j68NX6q/protfolio.png" height="30" width="40" /> </a> <a
-        href="https://www.linkedin.com/in/sukanta-das221/" target="blank"> <img align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-            alt="" height="30" width="40" /> </a> <a href="https://www.facebook.com/Cristain.333" target="blank">
-        <img align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
-            alt="" height="30" width="40" /> </a>
-</p> 
+
 
 <p align="center">
 <table>
     <h1 align="center">Github Stats</h1>
-    <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cristain333&theme=radical" alt="cristain333" /></a> </p>
+    <p align="center">
+  <a  align="center" href="https://github.com/Cristain333">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Cristain333&theme=radical" alt="Cristain's GitHub Contribution"/>
+  </a>
+</p>
     <tr>
-        <td><img alt="Cristain :: Profile Stats "
-                src="https://github-readme-stats.vercel.app/api?username=CrisTain333&count_private=true&show_icons=true&theme=radical" />
+        <td>
+                 <a href="https://github.com/cristain333"><img alt="Al Cristain's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=Cristain333&show_icons=true&count_private=true&theme=radical&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866"/></a>
         </td> <!-- &hide=html -->
         <td><img alt="Cristain :: Top Langs]"
                 src="https://github-readme-stats.vercel.app/api/top-langs/?username=cristain333&layout=compact&theme=radical">
