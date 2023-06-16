@@ -83,7 +83,7 @@
                  <a href="https://github.com/cristain333"><img alt="Al Cristain's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=Cristain333&show_icons=true&count_private=true&theme=radical&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866"/></a>
         </td> <!-- &hide=html -->
         <td><img alt="Cristain :: Top Langs]"
-                src="https://github-readme-stats.vercel.app/api/top-langs/?username=cristain333&layout=compact&theme=radical">
+                src="https://github-readme-stats.vercel.app/api/top-langs/?username=cristain333&layout=donut&theme=radical&count_private=true">
         </td>
     </tr>
     <tr>
