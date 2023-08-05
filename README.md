@@ -37,7 +37,7 @@
 [![Github](https://img.shields.io/github/followers/CrisTain333?label=Follow&style=social)](https://github.com/CrisTain333)
 
 <h1> About Me </h1>
-🌱 I’m currently learning Aws , Docker, NextJS  <br>  <br> 
+🌱 I’m currently learning Aws , Docker, Postgresql ,   <br>  <br> 
 👨‍💻 All of my projects are available at <a href='https://devsukan.xyz' >Dev Sukan</a>  <br><br> 📧  Reach me anytime <a
     href="mailto:sukanta.das4104@gmail.com" target="_blank" rel="noopener">sukanta.das4104@gmail.com</a> <br>
 
