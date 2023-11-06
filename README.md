@@ -54,6 +54,9 @@
 ![Nodejs](https://img.shields.io/badge/Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&labelColor=333&logo=sql&logoColor=003B57)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&labelColor=000&logo=postgresql&logoColor=336791)
+[![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&labelColor=000&logo=prisma&logoColor=3C873A)](https://www.prisma.io/)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![SASS Badge](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
@@ -83,7 +86,7 @@
                  <a href="https://github.com/cristain333"><img alt="Al Cristain's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=Cristain333&show_icons=true&count_private=true&theme=radical&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866"/></a>
         </td> <!-- &hide=html -->
         <td><img alt="Cristain :: Top Langs]"
-                src="https://github-readme-stats.vercel.app/api/top-langs/?username=cristain333&layout=donut&theme=radical&count_private=true">
+                src="https://github-readme-stats.vercel.app/api/top-langs/?username=cristain333&layout=donut&theme=radical&count_private=true&hide=html,css,scss,python">
         </td>
     </tr>
     <tr>
