@@ -9,7 +9,7 @@
 <br/>
 
 <p align="center">
- <a href="https://devsukan.xyz" target="blank">
+ <a href="[ttps://www.sukanta.xyz" target="blank">
   <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="Sukanta_das" />
  </a>
  <a href="https://www.linkedin.com/in/sukanta-das221/" target="_blank">
