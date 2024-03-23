@@ -38,7 +38,7 @@
 
 <h1> About Me </h1>
 🌱 I’m currently learning Aws , Docker , Load balancing.   <br>  <br> 
-👨‍💻 All of my projects are available at <a href='https://devsukan.xyz' >Dev Sukan</a>  <br><br> 📧  Reach me anytime <a
+👨‍💻 All of my projects are available at <a href='https://www.sukanta.xyz' >Dev Sukan</a>  <br><br> 📧  Reach me anytime <a
     href="mailto:sukanta.das4104@gmail.com" target="_blank" rel="noopener">sukanta.das4104@gmail.com</a> <br>
 
 
