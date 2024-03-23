@@ -3,7 +3,7 @@
 <!-- Intro  -->
 <h3 align="center">
         <samp>&gt; Hey There!, I am
-                <b><a target="_blank" href="https://devsukan.xyz">Sukanta Das</a></b>
+                <b><a target="_blank" href="https://www.sukanta.xyz">Sukanta Das</a></b>
         </samp>
 </h3>
 <br/>
