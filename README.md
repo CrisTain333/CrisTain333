@@ -34,7 +34,7 @@
 [![](https://visitcount.itsvg.in/api?id=CrisTain333&icon=5&color=12)](https://visitcount.itsvg.in)
 ![focus](https://img.shields.io/badge/focus-MERN%20Stack-brightgreen)
 ![living](https://img.shields.io/badge/living-Chattogram-blue)
-![age](https://img.shields.io/badge/Age-20-blueviolet)
+![age](https://img.shields.io/badge/Age-22-blueviolet)
 [![Github](https://img.shields.io/github/followers/CrisTain333?label=Follow&style=social)](https://github.com/CrisTain333)
 
 <h1> About Me </h1>
