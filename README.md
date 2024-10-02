@@ -38,6 +38,9 @@
 [![Github](https://img.shields.io/github/followers/CrisTain333?label=Follow&style=social)](https://github.com/CrisTain333)
 
 <h1> About Me </h1>
+Diving into tech without a CSE background, yet my aspirations know no bounds. I'm rewriting my journey, determined to conquer every challenge and reach my goal.
+Watch me soar.💻 <br>  <br> 
+
 🌱 I’m currently learning Java, Spring, Kafka  <br>  <br> 
 👨‍💻 All of my projects are available at <a href='https://www.sukanta.xyz' >Sukanta Das</a>  <br><br> 📧  Reach me anytime <a
     href="mailto:sukanta.das4104@gmail.com" target="_blank" rel="noopener">sukanta.das4104@gmail.com</a> <br>
